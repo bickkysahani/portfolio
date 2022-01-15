@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Beauty and Nails",
+    "description": "Beauty and Nails Website made using Html, CSS, Javascript, Jquery, Bootstrap, PHP, MySQL, and Wordpress",
+    "link": "https://beautyandnailsmobile.com.au/",
+    "year": "2020",
+    "tags": "HTML, CSS, JS, Bootstrap,PHP, MySQL, and Wordpress",
+    "type": "Website",
+    "image": "/img/beautyandnails.png"
+  },
+  {
+    "title": "Insight Vision",
+    "description": "Realtime Lab-Grade testing over the Web,powered_by (spectroscopy, machine learning) ",
+    "link": "https://app.insights.vision/",
+    "year": "2021",
+    "tags": "Python, Django, Postgres, HTML, CSS, JS, Bootstrap",
+    "type": "Web App",
+    "image": "/img/insights.png"
+  },
+  {
+    "title": "DigiHome",
+    "description": "A Flask based Home Automation app where users can add, update and remove their home lights and thermostats information. Very simple and very easy to use application, useful for keeping track of your day-to-day home automation tasks.",
+    "link": "#",
+    "year": "2021",
+    "tags": "Python, Flask, MongoDB, React, Docker",
+    "type": "Web App",
+    "image": "/img/digihome.png"
+  },
+  {
+    "title": "Timeseries Forecasting (LSTM,ARIMA,Random Forest)",
+    "description": "A ML project to predict the future value of a time series using various machine learning models.",
+    "link": "https://github.com/bickkysahani/timeseries-forecasting",
+    "year": "2021",
+    "tags": "Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook, Tensorflow, Keras",
+    "type": "Machine Learning",
+    "image": "/img/timeseries.png"
+  }
+]
