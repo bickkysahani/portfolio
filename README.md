@@ -72,16 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Deploy to github pages
 `
- npm install gh-pages --save-dev
-
- in package.json
- "homepage": "http://cenacrharsh.github.io/test"
+npm install gh-pages@2.0.1 --save-dev 
+`
+### in package.json
+`
+ "homepage": "http://bickkysahani.github.io/portfolio" <br>
  "scripts": {
   //...
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-}
-init, remote add
-npm run deploy
-    
+  },
+`
+`
+npm run deploy   
 `
